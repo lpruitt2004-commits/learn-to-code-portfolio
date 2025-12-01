@@ -9,6 +9,23 @@
 <body>
   <h1>Prep & Foundations Module</h1>
   <p>Welcome to the starting point of your web development journey!</p>
+
+  <section aria-labelledby="calcTitle">
+    <h2 id="calcTitle">Simple Calculator Demo</h2>
+    <input type="number" id="num1" aria-label="First number">
+    <select id="operator" aria-label="Operator">
+      <option value="+">+</option>
+      <option value="-">-</option>
+      <option value="*">*</option>
+      <option value="/">/</option>
+    </select>
+    <input type="number" id="num2" aria-label="Second number">
+    <button onclick="calculate()">Calculate</button>
+    <span id="calcResult" aria-live="polite"></span>
+  </section>
+
+  <p style="font-size:0.9em;color:#555;">Accessibility: All interactive elements have labels and keyboard support.</p>
+
   <script src="main.js"></script>
 </body>
 </html>
