@@ -10,6 +10,7 @@ console.log('My name is:', myName);
 
 // Example: Using different data types
 let age = 40; // number
+crossOriginIsolated.log(age);
 let isStudent = true; // boolean
 let hobbies = ['coding', 'reading', 'gaming']; // array
 let address = { city: 'Huntington Beach', state: 'CA' }; // object
@@ -34,10 +35,9 @@ console.log('Address:', address);
 let sum = 5 + 3; // ai: What other operators can I use in JavaScript?
 let difference = 10-2;
 let product = 4*2;
-let average = 6/2
+let quotient = 6/2
 console.log('5 + 3 =', sum);
 console.log('10-2=', difference);
 console.log('4*2=', product);
-console.log('6 / 2 =' average);
-console.log();
+console.log('6 / 2 =', quotient);
 // TODO: Practice using -, *, /, % operators with different numbers.
