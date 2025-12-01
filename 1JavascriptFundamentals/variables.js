@@ -9,15 +9,35 @@ console.log('My name is:', myName);
 // TODO: Create a variable to store your age and print it to the console.
 
 // Example: Using different data types
-let age = 25; // number
+let age = 40; // number
 let isStudent = true; // boolean
 let hobbies = ['coding', 'reading', 'gaming']; // array
-let address = { city: 'Irvine', state: 'CA' }; // object
+let address = { city: 'Huntington Beach', state: 'CA' }; // object
 
-// TODO: Try changing the values above and print them out.
+
+// Example: Changing and printing values
+age = 40; // Change the age
+console.log('Updated age:', age);
+
+isStudent = true; // Change the boolean
+console.log('Is student?', isStudent);
+
+hobbies.push('surfing'); // Add a new hobby
+console.log('Hobbies:', hobbies);
+
+address.city = 'Santa Ana'; // Change the city
+console.log('Address:', address);
+
+// ai: What happens if I use const instead of let for these variables?
 
 // Example: Operators
 let sum = 5 + 3; // ai: What other operators can I use in JavaScript?
+let difference = 10-2;
+let product = 4*2;
+let average = 6/2
 console.log('5 + 3 =', sum);
-
+console.log('10-2=', difference);
+console.log('4*2=', product);
+console.log('6 / 2 =' average);
+console.log();
 // TODO: Practice using -, *, /, % operators with different numbers.
