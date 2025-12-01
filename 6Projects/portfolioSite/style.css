@@ -1,3 +1,6 @@
+
+/* style.css for Portfolio Site */
+/* ai: suggest a color palette for a modern portfolio */
 body {
   font-family: Arial, sans-serif;
   background: #fff;
@@ -7,3 +10,9 @@ body {
 h1 {
   color: #2c3e50;
 }
+
+/* ai: how can I improve accessibility for color contrast? */
+
+/* AI Prompt Suggestion:
+   "How do I make my site responsive for mobile?"
+*/

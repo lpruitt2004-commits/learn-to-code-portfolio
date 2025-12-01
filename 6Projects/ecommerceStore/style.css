@@ -1,3 +1,6 @@
+
+/* style.css for E-commerce Store */
+/* ai: suggest a color palette for an online store */
 body {
   font-family: Arial, sans-serif;
   background: #f0f0f0;
@@ -7,3 +10,9 @@ body {
 h1 {
   color: #e67e22;
 }
+
+/* ai: how can I style product cards for better UX? */
+
+/* AI Prompt Suggestion:
+   "How do I make the cart sticky on scroll?"
+*/

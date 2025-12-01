@@ -1,3 +1,6 @@
+
+/* style.css for Blog with Authentication */
+/* ai: suggest a color scheme for a blog platform */
 body {
   font-family: Arial, sans-serif;
   background: #f5f5f5;
@@ -7,3 +10,9 @@ body {
 h1 {
   color: #8e44ad;
 }
+
+/* ai: how can I style post cards and comments? */
+
+/* AI Prompt Suggestion:
+   "How do I add dark mode to my blog?"
+*/

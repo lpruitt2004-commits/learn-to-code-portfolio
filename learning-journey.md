@@ -1,5 +1,23 @@
 # React & JavaScript Developer Journey
 
+## CLxL2: Dual AI Model Workflow
+
+**CLxL2** is a workflow that combines the strengths of two open-source AI models:
+
+- **CodeLlama-13B**: Specialized for code generation, review, and programming help.
+- **Llama 2-13B**: General-purpose language model for conversation, research, and non-code tasks.
+
+**How it works:**
+- Route code-related questions, code review, and programming tasks to CodeLlama-13B.
+- Route general language, research, or conversational queries to Llama 2-13B.
+- Use both models together for a more versatile and effective AI assistant experience.
+
+**Example Use Cases:**
+- Ask CodeLlama-13B to generate or review code snippets, debug, or explain programming concepts.
+- Ask Llama 2-13B for writing help, research, summaries, or brainstorming.
+
+> This workflow allows you to maximize productivity by leveraging the best capabilities of each model. Document your results and share your experience in your portfolio!
+
 ## Productivity & Collaboration Tools
 
 ### Recommended Slack Communities for Developers
